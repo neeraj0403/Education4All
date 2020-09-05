@@ -3,7 +3,7 @@
 
 Bridging the gap between language and education. Resolving the real issues faced by rural people in education sector.
 
- ## Setting Up the Project
+ ## Setting Up and Running the Project
  Download the Application on your mobile phone from [here](https://github.com/neeraj0403/Education4All/blob/apk/app-debug.apk) 
 
  ## What problem we are trying to solve ? <br/>
