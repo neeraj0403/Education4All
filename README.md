@@ -11,7 +11,7 @@ Bridging the gap between language and education. Resolving the real issues faced
 Hence, we have deduced a solution that incorporates technology (even if the user doesn't have the best quality internet) and solve major problems in rural education , such as LACK OF RESOURCES and LANGUAGE BARRIER faced.
 
 
-## Our Solution - EduConnect
+## Our Solution - Education App
 AS PER PROBLEM STATEMENT , WE HAVE BUILT A SYSTEM AS FOLLOWS :
 Rather than coming up with a platform , we incorporate our solution to the already available Ministry of Education initiative.
 
