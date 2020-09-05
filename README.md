@@ -4,7 +4,7 @@
 Bridging the gap between language and education. Resolving the real issues faced by rural people in education sector.
 
  ## Setting Up the Project
- Download the Application on your mobile phone from here: 
+ Download the Application on your mobile phone from [here](https://github.com/neeraj0403/Education4All/blob/apk/app-debug.apk) 
 
  ## What problem we are trying to solve ? <br/>
  Students in urban areas are blessed with the plenty of resources internet today has to offer. But for a student in the rural areas ,internet connectivity and speed are distant realities. Therefore a solution to provide students in rural areas content and resources for learning through internet is a challenge in itself .A solution based solely on technology , needs infrastructural advancements before even implementing the actual solution.
