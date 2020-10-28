@@ -11,7 +11,7 @@ Bridging the gap between language and education. Resolving  the real issues face
  
  ![image](https://github.com/anna4j/Hackathon59/blob/master/reasonedu.jpeg)
  
-Hence, we have deduced a solution that incorporates technology (even if the user doesn't have the best quality internet) and solve major problems in rural education , such as LACK OF RESOURCES and LANGUAGE BARRIER faced.
+Hence, we have deduced a solution that incorporates technology (even if the user doesn't have the best quality internet) and solve major problems in rural education , such as LACK OF RESOURCES or LANGUAGE BARRIER faced.
 
 
 ## Our Solution - Education App
