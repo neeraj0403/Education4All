@@ -1,7 +1,7 @@
 # EDUTHON
 # Team: Education4All
 
-Bridging the gap between language and education. Resolving the real issues faced by rural people in education sector.
+Bridging the gap between language and education. Resolving with the real issues faced by rural people in education sector.
 
  ## Setting Up and Running the Project
  Download the Application on your mobile phone from [here](https://github.com/neeraj0403/Education4All/blob/apk/app-debug.apk) 
